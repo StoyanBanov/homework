@@ -1,0 +1,13 @@
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\bin\Debug\netcoreapp3.1\AvtomobilnoSystezanie.exe
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\bin\Debug\netcoreapp3.1\AvtomobilnoSystezanie.deps.json
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\bin\Debug\netcoreapp3.1\AvtomobilnoSystezanie.runtimeconfig.json
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\bin\Debug\netcoreapp3.1\AvtomobilnoSystezanie.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\bin\Debug\netcoreapp3.1\AvtomobilnoSystezanie.dll
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\bin\Debug\netcoreapp3.1\AvtomobilnoSystezanie.pdb
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\obj\Debug\netcoreapp3.1\AvtomobilnoSystezanie.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\obj\Debug\netcoreapp3.1\AvtomobilnoSystezanie.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\obj\Debug\netcoreapp3.1\AvtomobilnoSystezanie.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\obj\Debug\netcoreapp3.1\AvtomobilnoSystezanie.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\obj\Debug\netcoreapp3.1\AvtomobilnoSystezanie.dll
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\obj\Debug\netcoreapp3.1\AvtomobilnoSystezanie.pdb
+C:\Users\Stoyan\source\repos\AvtomobilnoSystezanie\obj\Debug\netcoreapp3.1\AvtomobilnoSystezanie.genruntimeconfig.cache
